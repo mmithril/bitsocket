@@ -11,6 +11,7 @@ There is a simple demo of our implementation:
 2. Send any JSON payload with following data to subscribing a channel:
 
     <!-- language: lang-json -->
+    
         {"event":"addChannel", "channel":"CHANNEL_NAME"}
 
 3. Then send data to the REST endpoint:
