@@ -1,10 +1,10 @@
-# Live DEMO - want to give it a try?
+# Live DEMO
 
-There is a simple demo of our implementation:
+Want give it a try? There is a simple demo of our implementation:
 
 1. Connect to the WebSocket at
 
-        TODO
+        bitsocket-demo.bitrich.info:8080
 
 2. Send any JSON payload with following data to subscribing a channel:
 
@@ -14,7 +14,7 @@ There is a simple demo of our implementation:
 
 3. Then send data to the REST endpoint:
 
-        TODO
+        bitsocket-demo.bitrich.info/publish/CHANNEL_NAME
 
 > Note: This is only demo deployment with a lot checks turned off. It is running on low cost server. **But it handles more than [5000 concurent](performance.md) users.**
 
@@ -31,10 +31,10 @@ There is a simple demo of our implementation:
 
 - licence for commercial usage
 - documentation how to build, deploy and run the server
-- support for your implementation
+- support for your implementation and operation
 - source code
 - streaming API for the public data (private trading is in development)
-- updates in the feature
+- we implement your exchange in [xchange-stream](https://github.com/bitrich-info/xchange-stream) client library.
 
 ## What it cost?
 
