@@ -16,7 +16,7 @@ There is a simple demo of our implementation:
 
         TODO
 
-> Note: This is only demo deployment with a lot checks turned off. It is running at low cost server (1$ per month). **But it handles nearly [5000 concurent](performance.md) users :sunglasses:.**
+> Note: This is only demo deployment with a lot checks turned off. It is running on low cost server. **But it handles more than [5000 concurent](performance.md) users.**
 
 ## Why use it?
 
@@ -24,19 +24,18 @@ There is a simple demo of our implementation:
 - no need for 3rd party provider
 - securely operated on your own servers
 - don't mess up with WebSocket implementation
-- scalable solution using Docker
+- highly scalable solution using Docker
 - did we mention the performance?
 
 ## What will you get?
 
-- source code
-- licence for comercial usage and modification
+- licence for commercial usage
 - documentation how to build, deploy and run the server
-- consultations about your own changes
-- streaming API for the public data (private section is in development)
+- support for your implementation
+- source code
+- streaming API for the public data (private trading is in development)
+- updates in the feature
 
 ## What it cost?
 
-Send us a simple mail at info@bitrich.info. We'll find right price for everyone.
-
-<a href="http://www.reactivemanifesto.org/"> <img style="border: 0; position: fixed; right: 0; top:0; z-index: 9000" src="//d379ifj7s9wntv.cloudfront.net/reactivemanifesto/images/ribbons/we-are-reactive-orange-right.png"> </a>
+Contact us at [info@bitrich.info](mailto:info@bitrich.info). We'll find right price for everyone.
