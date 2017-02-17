@@ -16,7 +16,7 @@ There is a simple demo of our implementation:
 
         TODO
 
-> Note: This is only demo deployment with a lot checks turned off. It is running at low cost server (1$ per month). **But it handles nearly 500 concurent users :sunglasses:.**
+> Note: This is only demo deployment with a lot checks turned off. It is running at low cost server (1$ per month). **But it handles nearly [5000 concurent](performance.md) users :sunglasses:.**
 
 ## Why use it?
 
